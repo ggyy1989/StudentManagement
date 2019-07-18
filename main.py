@@ -1,5 +1,5 @@
 """
-    程序入口
+    程序入口,git pull测试.从远程主机同步
 """
 
 from ui import *
